@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @naomipappe
+- 👋 Hi, I’m Ihor Zvieriev
 - 👀 I’m interested in Computer Graphics and Physics Simulation
 - 🌱 I’m currently learning Physically Based Simulation techniques
 
